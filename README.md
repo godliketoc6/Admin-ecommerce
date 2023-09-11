@@ -27,6 +27,14 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+
+
+## Contribution form 
+Ngo Nhat Minh(s3838104): 7
+Nguyen Quoc Bao(s3803885): 7
+Nguyen Duc Khang(s3824317): 7
+Nguyen Ha Minh Duy(s3852307): 7
+
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
