@@ -41,7 +41,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Contribution form 
 
-Ngo Nhat Minh(s3838104): 7
-Nguyen Quoc Bao(s3803885): 7
-Nguyen Duc Khang(s3824317): 7
-Nguyen Ha Minh Duy(s3852307): 7
+- Ngo Nhat Minh(s3838104): 7
+- Nguyen Quoc Bao(s3803885): 7
+- Nguyen Duc Khang(s3824317): 7
+- Nguyen Ha Minh Duy(s3852307): 7
