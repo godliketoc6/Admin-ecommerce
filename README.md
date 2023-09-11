@@ -28,13 +28,6 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 
-
-## Contribution form 
-Ngo Nhat Minh(s3838104): 7
-Nguyen Quoc Bao(s3803885): 7
-Nguyen Duc Khang(s3824317): 7
-Nguyen Ha Minh Duy(s3852307): 7
-
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
@@ -44,3 +37,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+## Contribution form 
+
+Ngo Nhat Minh(s3838104): 7
+Nguyen Quoc Bao(s3803885): 7
+Nguyen Duc Khang(s3824317): 7
+Nguyen Ha Minh Duy(s3852307): 7
